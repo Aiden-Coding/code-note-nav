@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b5e65fea","path":"/cs/programmercarl/problems/1791.zhaochuxingxingtudezhongxinjiedian.html","title":"1791.找出星型图的中心节点","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"cs/programmercarl/problems/1791.找出星型图的中心节点.md"}');export{e as data};

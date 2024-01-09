@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1f9bccb2","path":"/cs/algo/22. lianbiaozhongdaoshudi K gejiedian.html","title":"22. 链表中倒数第 K 个结点","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"解题思路","slug":"解题思路","link":"#解题思路","children":[]}],"git":{},"filePathRelative":"cs/algo/22. 链表中倒数第 K 个结点.md"}');export{e as data};
